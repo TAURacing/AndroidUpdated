@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Application DashBoard</string>
+    <string name="action_settings">Settings</string>
+    <string name="oil_title">OT:</string>
+    <string name="battery_title">VB:</string>
+    <string name="lambda_title">Lmd:</string>
+    <string name="coolant_title">CT:</string>
+
+</resources>
